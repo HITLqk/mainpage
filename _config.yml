@@ -1,7 +1,7 @@
 # Setup
-title: 李其锴
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: HIT李其锴
+description: A short profile of 小李同学, Harbin Institute of Technology
+url: https://hitlqk.github.io/mainpage/
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -29,16 +29,16 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: liqikai66
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Xiao Li
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/liqikai66
+    - https://hitlqk.github.io/mainpage/
 google_site_verification: xxxxx
-lang: en
+lang: zh
 
 sass:
   sass_dir: _sass
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Xiao Li
+  url: https://hitlqk.github.io/mainpage/
+  email: liqikai66@163.com
